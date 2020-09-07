@@ -29,8 +29,8 @@
 }
 
 .flaticon-idea-1:before { content: "\f100"; }
-.flaticon-idea:before { content: "\f102"; }
-.flaticon-discuss-issue:before { content: "\f103"; }
-.flaticon-process:before { content: "\f105"; }
-.flaticon-development:before { content: "\f104"; }
+.flaticon-idea:before { content: "\f105"; }
+.flaticon-discuss-issue:before { content: "\f102"; }
+.flaticon-process:before { content: "\f104"; }
+.flaticon-development:before { content: "\f103"; }
 .flaticon-seo:before { content: "\f101"; }

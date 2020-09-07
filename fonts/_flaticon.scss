@@ -1,6 +1,6 @@
     /*
     Flaticon icon font: Flaticon
-    Creation date: 11/07/2020 06:22
+    Creation date: 06/09/2020 20:28
     */
 
     @font-face {
@@ -38,15 +38,15 @@
     }
 
     .flaticon-programming:before { content: "\f100"; }
-.flaticon-python-language-logotype:before { content: "\f101"; }
-.flaticon-translation:before { content: "\f102"; }
-.flaticon-sql:before { content: "\f103"; }
+.flaticon-python-language-logotype:before { content: "\f103"; }
+.flaticon-sql:before { content: "\f101"; }
 .flaticon-learning:before { content: "\f104"; }
-.flaticon-deep-learning:before { content: "\f105"; }
+.flaticon-deep-learning:before { content: "\f102"; }
+.flaticon-infographic:before { content: "\f105"; }
     
     $font-Flaticon-programming: "\f100";
-    $font-Flaticon-python-language-logotype: "\f101";
-    $font-Flaticon-translation: "\f102";
-    $font-Flaticon-sql: "\f103";
+    $font-Flaticon-python-language-logotype: "\f103";
+    $font-Flaticon-sql: "\f101";
     $font-Flaticon-learning: "\f104";
-    $font-Flaticon-deep-learning: "\f105";
+    $font-Flaticon-deep-learning: "\f102";
+    $font-Flaticon-infographic: "\f105";
