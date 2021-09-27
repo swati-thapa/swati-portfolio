@@ -163,6 +163,7 @@ a,
     color: #767676;
     margin: 0;
     padding: 0;
+    object-fit: cover;
 }
 
 blockquote {
@@ -2638,8 +2639,14 @@ select.mobile-device {
 .right-git {
 
 			position:relative;
-			left:200px;
+			left:290px;
 			top:-60px;
+		}
+.right-linkdin {
+
+			position:relative;
+			left:375px;
+			top:-125px;
 		}
 
 /* ================================
