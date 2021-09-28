@@ -2639,13 +2639,15 @@ select.mobile-device {
 .right-git {
 
 			position:relative;
-			left:190px;
+			text-align: right;
+			right:300px;
 			top:-60px;
 		}
 .right-linkdin {
 
 			position:relative;
-			left:275px;
+			text-align: right;
+			right:200px;
 			top:-125px;
 		}
 
